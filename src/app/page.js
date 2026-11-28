@@ -5,7 +5,7 @@ export default function Home() {
       <div className="w-full max-w-sm bg-white p-6 rounded-xl shadow-lg border text-center">
         {/* Avatar Image */}
         <img
-          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQijdX3UZUoc_YwsuIcNgcnKe5TfBHj-B1LMC3AugFyQw&s"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLjsFBkhzBscMTeV5i_xeomwlLwRj9c1b48bO5blalfQ&sgit"
           alt="Profile Avatar"
           className="w-20 h-20 rounded-full mx-auto mb-4 object-cover"
         />
